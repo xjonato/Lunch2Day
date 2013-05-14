@@ -1,0 +1,5 @@
+The modules and scripts for scraping and parsing a website will live here.
+
+Jonas will implement this in Python.
+
+Odd, 2013-05-14
