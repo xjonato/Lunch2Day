@@ -1,0 +1,6 @@
+This is where the Engine to Rule them All shall live.
+
+The Engine will manage the JSON structure and serialization, updating it or serving it, depending on what it's asked to do. 
+Will be implemented in Perl, running as a server with a predefined command set for available modes of operation.
+
+Odd, 2013-05-14 15:24:28
